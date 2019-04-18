@@ -7,6 +7,7 @@ import static com.sun.xml.internal.ws.spi.db.BindingContextFactory.LOGGER;
 
 /**
  * 测试ArrayQueue
+ * 从单线程写入消费、写入消费的顺序、并发写入消费三个角度进行测试
  * @author YMX
  * @date 2019/4/18 10:44
  */

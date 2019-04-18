@@ -2,6 +2,7 @@ package javaUtil.Concurrent.ArrayQueue;
 
 /**
  * 模拟实现并发包下的ArrayBlockingQueue
+ * 实现队列类ArrayQueue
  * @author YMX
  * @date 2019/4/18 9:34
  */
